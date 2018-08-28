@@ -1,0 +1,8 @@
+global:
+  comment_system: valine
+valine:
+  appId: OWA6ER4W1Bs9uSbznd4IdXnf-gzGzoHsz
+  appKey: vjt17SYhxGl9L7oCD37DbXsi
+menu:
+  Resume: 
+    link: /resume/
